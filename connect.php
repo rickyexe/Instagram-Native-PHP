@@ -1,8 +1,8 @@
 <?php
 	$server = 'localhost';
-    $uid = 'rickygideon';
-    $pwd = '12089912';
-    $db = 'id7853395_instantgram';
+    $uid = 'yourid';
+    $pwd = 'yourpwd';
+    $db = 'yourdb';
 
 	 $mysqli = new mysqli($server, $uid, $pwd, $db);
 	if (mysqli_connect_errno()){
