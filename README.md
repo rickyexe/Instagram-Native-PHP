@@ -7,3 +7,5 @@ It has basic functionality of instagram such as
 3. Comment
 4. Like
 5. User search
+
+To start the program you need to have phpmyadmin installed and you need to change the connect.php setup
